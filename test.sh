@@ -33,6 +33,9 @@ $1 $fibonacci 5
 echo FIBONACCI 10
 $1 $fibonacci 10
 
+echo SOMA
+$1 $soma
+
 echo SOMA 1
 $1 $soma 1
 
